@@ -33,3 +33,8 @@ Specific, Measurable, Agreed-upon/Achievable, Realistic, Time-bound
 ### **Team Collaboration and Documentation Tools**
 
 Our primary means of team communication will be through Practera. We will use GitHub for managing versions and Microsoft teams will be the platform used for our scheduled virtual meetings, organized by the project manager.
+
+
+**Project Managment Plan and Methodologies**
+- We will primarily use Agile and Scrum methodologies
+- We are breaking the project up into smaller sizes, "sprints", per Agile and Scrum
