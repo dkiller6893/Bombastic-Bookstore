@@ -1,5 +1,5 @@
 # Bombastic-Bookstore
-**Team Details**
+### **Team Details**
 
 Project Name: Bombastic Book Store
 
