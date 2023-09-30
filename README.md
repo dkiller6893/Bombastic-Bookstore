@@ -1,4 +1,11 @@
 # Bombastic-Bookstore
+
+Project Name: Bombastic Book Store
+Team Number: 11
+Project Manager: Douglas Griswold
+Mentor: Christopher Becom
+Team Members: Douglas Griswold, Edward Batchelor, Ryan Burres, Brian Gill, Shawntel Hamilton, Jessica Maldonado, Julia McDonald, and David Wang
+
 ### **Project Objective** 
 
 Project goals and objectives were inspired by SMART goal theory developed by Doran, Miller, and Cunningham.
