@@ -31,5 +31,5 @@ Specific, Measurable, Agreed-upon/Achievable, Realistic, Time-bound
 - **Scheduled Meetings:** We plan on utilizing the Microsoft teams platform to schedule our virtual meetings that are organized by the project manager
 ### **Project Managment Plan and Methodologies**
 
-Our primarily approach for the project will be to use Agile and Scrum methodologies. The project will be broken up into smaller sizes know as "sprints" to align with Agile and Scrum.
-
+- We will primarily use Agile and Scrum methodologies
+- We are breaking the project up into smaller sizes, "sprints", per Agile and Scrum- 
