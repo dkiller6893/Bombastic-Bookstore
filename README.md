@@ -23,12 +23,39 @@ Specific, Measurable, Agreed-upon/Achievable, Realistic, Time-bound
 
 - To Maintain customers base by being up-to-date on popular items, promoting customer feedback, and offering discounts on unpopular or hard-to-sell items.
 
+### **Project Scope Statement**
 
+IN SCOPE
+The team, using a web-application architecture, will develop for Bombastic (referred to as the client) an application to:
+-	Allow customers to make purchases online
+  
+- Track inventory and sales revenue
+  
+- Retain sales order information
+  
+-	Retain customer contact information
 
+OUT OF SCOPE
+The team will not develop:
+-	A point-of-sales for in store purchase (online orders only)
+  
+-	A shipping application (Bombastic will outsource their shipping needs)
 
+-	Anything else not included in requirements gathering without approval by both the client (Bombastic) and project stakeholders
 
+The main features and functionalities to be developed:
+-	An interactive, web-based user-interface for customers (HTML/CSS using JavaScript or Php)
+  
+-	A relational database with tables for customer orders, customer info, book inventory, and sales information including costs and profits generated
+  
+-	An in-house user-interface for Bombastic’s senior management and accounting department
 
-
+The features and functionalities can be modified in future milestones:
+-	Each scrum iteration will improve the aesthetics of the UI for customers until it meets client’s approval
+  
+-	Each scrum iteration will improve the database until 3rd normal form or higher is reach and approved by senior stakeholders and the client.
+  
+-	Each scrum iteration will improve application’s processing speed until optimized or meets client’s requirements
 
 ### **Team Collaboration and Documentation Tools**
 
