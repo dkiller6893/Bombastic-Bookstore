@@ -1,0 +1,7 @@
+1.	User Requirements
+< How will the end-users use the finished project? List at least 3 user requirements with MOSCOW code.>
+
+Requirement ID	Requirement Description	MOSCOW
+UR1	Users can search inventory by title, author, ID, or keyword	(M)
+UR2	Users are allowed to search the database as a guest	(M)
+UR3	Users are able to view summary of books searched	(S)
