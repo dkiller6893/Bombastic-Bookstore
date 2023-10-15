@@ -1,0 +1,10 @@
+Business Requirements:
+
+BR1.1 We must allow users to efficiently and accurately track inventory and sales information using a database (M)
+
+BR1.2 We must allow users to sort the inventory database alphabetically or categorically (M)
+
+BR1.3 We must allow users to place and track orders via our web application (M)
+
+BR1.4 We must allow users to track sales revenue (S)
+
