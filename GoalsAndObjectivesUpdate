@@ -1,0 +1,9 @@
+Goals:
+-Project to allow users to maintain their inventory by keeping track of inventory levels
+-Project to allow users to track their profit margins by producing a monthly and yearly report based on past, current, and marketing data
+
+Objectives:
+-	To maintain inventory by having a baseline stored-inventory-threshold and tracking number of items sold and added to inventory.
+-	To control the inventory size by updating the total inventory every time an item is sold or added to it.
+-	To organize the inventory by allowing user to group and search an item alphabetically or based on category of genre, author, keyword, 
+
