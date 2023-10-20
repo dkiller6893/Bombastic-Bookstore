@@ -1,17 +1,8 @@
-Database:
+FR1.1 System will store user and books in a database(M)
 
-FR1.1 System will store user, customer, and books in a database(M)
+FR2.1 Allow user to view monthly and yearly inventory reports based on past and current data(S)
 
-Report:
+FR3.1 Allows user to set and view an inventory threshold that will serve as a baseline of low stock(M)
 
-FR2.1 Allow user to view product sale reports based on past and current data(S)
+FR3.2 Allows user to categorize database alphabetically and by genre, author, keyword, and ISBN(M)
 
-FR2.2 Allow user to view a forecasted report based on past demand data(S)
-
-Customization:
-
-FR3.1 Allows user to set an inventory threshold that alerts user user of low stock(M)
-
-FR3.2 Allows user to categorize database by adding genre, author, keyword, and ISBN(M)
-
-FR3.3 Allows user to add, change, delete alert messages for customers (C)
