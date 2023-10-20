@@ -1,10 +1,10 @@
 Goals:
--Application to allow users to maintain their inventory by keeping track of inventory levels
+-Application to allow users to maintain their inventory by tracking of inventory levels
 -Application to allow users to track their inventory by producing a monthly and yearly report based on past and current data
 
 Objectives:
 -	To maintain inventory by having a baseline stored-inventory-threshold that user can set and tracking number of items sold and added to inventory.
--	To control the inventory size by updating the total inventory every time an item is sold or added.
+-	To maintain the inventory size by updating the total inventory every time an item is sold or added.
 -	To organize the inventory by allowing user to group and search an item alphabetically or based on category of genre, author, keyword, and ISBN.
--Application sends a profit margin report to user using information attained from inventory category, popularity, cost, and title of items sold versus unsold
+-Application to allow user to view inventory reports using information attained from inventory category and title of items sold versus unsold
 
