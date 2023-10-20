@@ -1,0 +1,50 @@
+2.2 User Stories
+1.	As a bookstore owner, I want to be able to add and remove new books to my inventory so that I can keep track of my stock.
+
+2.	As a bookstore owner, I want to be able to update the quantity of books in my inventory so that I can keep track of my stock.
+
+3.	As a bookstore owner, I want to be able to search for books in my inventory by title, author, or publisher so that I can find specific books quickly.
+
+4.	As a bookstore owner, I want to be able to view all the books in my inventory so that I can see what books I have in stock.
+
+5.	As a bookstore owner, I want to be able to view which books are selling or not selling to increase sales and lower inventory cost.
+
+6.	As a customer, I want to be able to search for books in the store by title, author, or publisher so that I can find specific books quickly.
+
+7.	As a customer, I want to be able to view the details of each book in the store so that I can see information such as the author, title, price, and publisher.
+
+8.	As a customer, I want to be able to add books to my cart so that I can purchase them later.
+
+9.	As a customer, I want to be able to view my cart so that I can see what books I have added and their prices.
+
+10.	As a customer, I want to be able to remove books from my cart so that I can change my mind about purchasing them.
+
+11.	As a customer, I want to be able to purchase books from the store using my credit card or other payment methods.
+
+2.3 Use Cases
+1.	Add book to inventory: The bookstore owner adds a new book to their inventory by entering the book’s title, author, publisher, and quantity into the system. 
+    The system responds by updating the inventory with the new book.
+
+2.	Remove book from inventory: The bookstore owner removes a book from their inventory by selecting the book from a list and clicking “remove”. 
+    The system responds by updating the inventory and removing the book.
+
+3.	Update book quantity: The bookstore owner updates the quantity of a book in their inventory by selecting the book from a list and entering the new quantity. 
+    The system responds by updating the inventory with the new quantity.
+
+4.	Search for books: The bookstore owner searches for books in their inventory by entering a title, author, or publisher into the search bar. 
+    The system responds by displaying a list of books that match the search criteria.
+
+5.	View all books: The bookstore owner views all the books in their inventory by clicking on a button. The system responds by displaying a list of all the books in the inventory.
+
+6.	View book details: The bookstore owner views the details of a book in their inventory by selecting the book from a list. The system responds by displaying information such as the author, title, price, and publisher.
+
+7.	Generate inventory report: The bookstore owner generates a report on their inventory by clicking on a button. 
+    The system responds by generating a report that shows how many copies of each book are in stock and how much money has been made from selling each book.
+
+8.	Browsing and searching for books: Customers can browse through the website’s collection of books, search for specific titles, authors, or genres, 
+    and filter the results based on various criteria such as price, publication date, or rating.
+
+9.	Purchasing books: Customers can add books to their cart, view their cart, and proceed to checkout. They can also apply discount codes or gift cards if they have any.
+
+10.	Managing account: Customers can create an account, log in, and manage their personal information such as name, email address, and payment methods. 
+    They can also view their order history and track the status of their current orders.
